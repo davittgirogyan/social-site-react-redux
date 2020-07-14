@@ -1,0 +1,21 @@
+.content{
+    border: 1px solid blueviolet;
+    border-width: 0 5px 4px 0;
+    margin-top: 5px;
+}
+.content button{
+    float: right;
+}
+.id{
+    color: brown;
+}
+.userId{
+    color: chocolate;
+}
+.title{
+    color: darkblue;
+    cursor: pointer;
+}
+.body{
+    color: darkolivegreen;
+}

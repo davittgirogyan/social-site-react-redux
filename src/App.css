@@ -1,0 +1,21 @@
+
+.app-wrapper{
+  display: grid;
+
+  grid-template-areas: 
+    "h h"
+    "n c"
+    "f f"
+  ;
+  width: 100%;
+  margin: 0 auto;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  min-height: 100vh;
+}
+
+.app-wrapper-content{
+    grid-area: c;
+    background-color: lightsteelblue;
+    padding: 15px;
+}

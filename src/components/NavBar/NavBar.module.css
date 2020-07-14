@@ -1,0 +1,15 @@
+
+.nav{
+    grid-area: n;
+    background-color: darkred;
+    padding: 15px;
+  }
+.item{
+    color: darkkhaki; 
+}  
+.item a {
+  color:white;
+}
+.active{
+  color: darkkhaki;
+}  

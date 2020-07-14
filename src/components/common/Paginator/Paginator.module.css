@@ -1,0 +1,11 @@
+.pagination{
+    text-align: center;
+}
+.default span{
+    cursor: pointer;
+    font-size: 20px;
+}
+.next, .prev{
+    font-size: 30px;
+    cursor: pointer;
+}

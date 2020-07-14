@@ -1,0 +1,17 @@
+.userPhoto{
+    width: 100px;
+}
+.selectedPage span{
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 25px;
+}
+.users{
+    display: flex;
+    flex-wrap: wrap;
+}
+.user{
+    width: 200px;
+    height: 250px;
+    text-align: center;
+}

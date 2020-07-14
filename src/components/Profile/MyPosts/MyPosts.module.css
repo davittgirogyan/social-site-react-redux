@@ -1,0 +1,11 @@
+.item{
+    color: aqua;
+  }
+
+.new_post{
+    display: inline-flex;
+
+  }
+.posts{
+  border: 1px solid lightseagreen;
+}
